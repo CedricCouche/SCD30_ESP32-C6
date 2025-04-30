@@ -13,7 +13,7 @@ Basic reading of SCD30 CO2 sensor on a ESP32-C6 dev board to read.
 
 ## Electronic diagram
 
-![SCD30_ESP32-C6.png]
+![Electronic diagram](SCD30_ESP32-C6.png)
 
 ## IDE & Librairies
 
