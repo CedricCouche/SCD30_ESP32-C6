@@ -29,6 +29,8 @@ Librairies required :
 
 ## Example of output
 
+```
 08:34:20.720 -> CO2 Concentration: 1011 ppm
 08:34:20.720 -> Temperature: 24.8 °C
 08:34:20.720 -> Humidity: 49.6 %
+```
