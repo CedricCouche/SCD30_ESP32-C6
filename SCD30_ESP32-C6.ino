@@ -34,7 +34,7 @@ void setup() {
     
     // Optionally set ambient pressure compensation (default: 0 = disabled)
     // If you have a separate pressure sensor, you can use this value in mbar
-    // scd30.setAmbientPressure(1013); // Standard sea level pressure is 1013.25 mbar
+    scd30.setAmbientPressure(1013); // Standard sea level pressure is 1013.25 mbar
     
     // Start continuous measurements
     scd30.beginMeasuring();
