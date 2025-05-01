@@ -16,6 +16,8 @@ Basic reading of SCD30 CO2 sensor on a ESP32-C6 dev board.
 
 ## Electronic diagram
 
+Interface used : I²C
+
 ![Electronic diagram](SCD30_ESP32-C6.png)
 
 ## IDE & Librairies
